@@ -50,6 +50,7 @@
 #include <nc/core/ir/misc/PatternRecognition.h>
 
 #include "InstructionAnalyzer.h"
+#include "InvalidInstructionException.h"
 
 namespace nc {
 namespace core {
